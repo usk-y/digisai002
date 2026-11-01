@@ -1,0 +1,6 @@
+{
+  "name": "DigisAI 001",
+  "description": "An application pulled and configured from DigisAI 001 repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
